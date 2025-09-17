@@ -109,9 +109,7 @@ Community Communication: Be transparent about your airdrop process
 Support
 If you find this toolkit helpful, consider supporting ongoing development:
 
-SOL: Your_Solana_Wallet_Address_Here
 
-ETH: Your_Ethereum_Wallet_Address_Here
 
 Disclaimer
 This software is provided for educational purposes only. NFT creation and distribution incur real costs on the Solana blockchain. Users are solely responsible for any expenses incurred and should thoroughly test all processes on devnet before proceeding with mainnet operations.
